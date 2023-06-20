@@ -48,6 +48,14 @@ class Vigenere:
 
         self.key = container[num]
 
+def export_all():
+    exp = ""
+    for entry in entries.text_list:
+        enc = Vigenere(text=entry)
+        exp += enc.decrypt()
+        file = open("out/decrypted.txt", "w")
+        file.write(exp)
+
 def main():
     pass
 
