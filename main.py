@@ -30,7 +30,6 @@ class Vigenere:
                 key_index += 1
             else:
                 self.decrypted += c
-
         return self.decrypted
 
 
@@ -39,20 +38,18 @@ class Vigenere:
 
     def key_find(self):
         container = []
-
-        for i in range(len(self.key)):
+        for n, k in enumerate(self.key):
             self.key.append(self.key[0])
             self.key.pop(0)
             container.append(self.key[:])
-            print(f"Key: {i}\t{self.key}  |  Text: {self.decrypt()[0:25]}")
+            print(f"{n}:\t{self.decrypt()[0:25]}")
         num = int(input("Please insert matching number: "))
         print("\n")
 
         self.key = container[num]
 
 def main():
-    t1 = Vigenere(entries.text3)
-    print(t1.decrypt())
+    pass
 
 if __name__ == "__main__":
     main()
