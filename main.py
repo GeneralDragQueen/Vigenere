@@ -1,5 +1,6 @@
 import entries
 
+
 class Vigenere:
     def __init__(self, text):
         self.encrypted = text
@@ -32,21 +33,18 @@ class Vigenere:
                 self.decrypted += c
         return self.decrypted
 
-
-
-
-
     def key_find(self):
         container = []
         for n, k in enumerate(self.key):
             self.key.append(self.key[0])
             self.key.pop(0)
             container.append(self.key[:])
-            print(f"{n}:\t{self.decrypt()[0:25]}")
+            print(f"Key {n}\t|\tText:  {self.decrypt()[0:25]}")
         num = int(input("Please insert matching number: "))
         print("\n")
 
         self.key = container[num]
+
 
 def export_all():
     exp = ""
@@ -56,8 +54,9 @@ def export_all():
         file = open("out/decrypted.txt", "w")
         file.write(exp)
 
+
 def main():
-    pass
+   pass
 
 if __name__ == "__main__":
     main()
