@@ -13,11 +13,11 @@ class Vigenere:
             self.state = True
             self.key_find()
 
-        self.decrypted = ""
         key_index = 0
         alphabet_lower = "abcdefghijklmnopqrstuvwxyzäöüß"
         alphabet_upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜß"
 
+        self.decrypted = ""
         for c in self.encrypted:
             if c in alphabet_lower:
                 index = alphabet_lower.index(c)
@@ -33,19 +33,15 @@ class Vigenere:
                 self.decrypted += c
         return self.decrypted
 
+
+
     def key_find(self):
-        container = []
-        for n, k in enumerate(self.key):
-            self.key.append(self.key[0])
-            self.key.pop(0)
-            container.append(self.key[:])
-            print(f"Key {n}\t|\tText:  {self.decrypt()[0:25]}")
-        num = int(input("Please insert matching number: "))
-        print("\n")
-
-        self.key = container[num]
-
-
+        helper = Vigenere(text=self.encrypted[:15])
+        helper.state = True
+        while "Abadius" not in helper.decrypt():
+            helper.key.append(helper.key[0])
+            helper.key.pop(0)
+        self.key = helper.key
 def export_all():
     exp = ""
     for entry in entries.text_list:
@@ -56,7 +52,8 @@ def export_all():
 
 
 def main():
-   pass
+    export_all()
+
 
 if __name__ == "__main__":
     main()
