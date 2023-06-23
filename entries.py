@@ -55,4 +55,11 @@ text6 = "Kmr Hphrfytg ßiaepd llergy - wvf vebpvn xvr Qbpxtohs, flq ripctozggu E
         " zblnlr ompüuha upk wvds uc gvm mvqzfyxxq Thcvw rsrriüvn. Uv wriü üvk zhtl qnhtivkvn Hdlvhvyöwvn" \
         " ylvctnöpwme, uv wriü lxurcjäi vds xöhfe Myinubhxq rueo.\n\n\n"
 
+
+text1 = "5. Dsafpyb \n" + text1
+text2 = "12. Terdköw \n" + text2
+text3 = "13. Terdköw \n" + text3
+text4 = "14. Cieqjbi \n" + text4
+text5 = "15. Cieqjbi \n" + text5
+text6 = "16. Lvtgzuu \n" + text6
 text_list = [text1, text2, text3, text4, text5, text6]
