@@ -33,8 +33,6 @@ class Vigenere:
                 self.decrypted += c
         return self.decrypted
 
-
-
     def key_find(self):
         helper = Vigenere(text=self.encrypted[:15])
         helper.state = True
@@ -42,6 +40,8 @@ class Vigenere:
             helper.key.append(helper.key[0])
             helper.key.pop(0)
         self.key = helper.key
+
+
 def export_all():
     exp = ""
     for entry in entries.text_list:
@@ -52,7 +52,9 @@ def export_all():
 
 
 def main():
-    export_all()
+    sample = Vigenere(text=entries.text1)
+    print(sample.decrypt())
+
 
 
 if __name__ == "__main__":
