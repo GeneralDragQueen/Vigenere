@@ -1,4 +1,5 @@
-text1 = "Mliaxan wuh Ebvbövth uprq bbz whß Wgn mä epd Hwvipivdds. Iöh yadlr rjyüzh Fknhzro myö vzcj örq xphwha dqyx" \
+text1 = "5. Dsafpyb \n" \
+        "Mliaxan wuh Ebvbövth uprq bbz whß Wgn mä epd Hwvipivdds. Iöh yadlr rjyüzh Fknhzro myö vzcj örq xphwha dqyx" \
      " doßygha Svfxiqbdßw iot kiä Styhha vgyxrjoüzha. Sqseähp Utgeuuomno bdihe upziafü Vxürhnört cwyöeg, sqspcfy möu" \
      " aieoxb äb vxipreoxro suuha.\n\n" \
      "Dkl Qrusewha vqu Knwlahkr upk Wnsäußdenc mebätdöheep tmpi, ßüx qhtölr nmß Atwrläzecpü zjhe ijyi Bqbaxufcjlmävyäxq"\
@@ -11,12 +12,14 @@ text1 = "Mliaxan wuh Ebvbövth uprq bbz whß Wgn mä epd Hwvipivdds. Iöh yadlr 
      " Gaplwbfyjjuß dgy Eybmuhwvr Creqfxüx yvrnlkro. Pi hfyekux rjy äjw xegpkäfayg Xatgywpiwkei mu ulmä, jßj xu eujpk" \
      " tfykz evi Phguu bdw ezevlx bdsec Vthnhjümhjoh wüt rcägaüzh Xehhrtfyy.\n\n\n"
 
-text2 = "Fjü ötevn gpr Zjaäalvd flw Tmzwßhabnöqroyyiüjetrib bbiyladkn qndsyc nonplr, rjyyc Krldsmäh yubhas Hhfv " \
+text2 = "12. Terdköw \n" \
+        "Fjü ötevn gpr Zjaäalvd flw Tmzwßhabnöqroyyiüjetrib bbiyladkn qndsyc nonplr, rjyyc Krldsmäh yubhas Hhfv " \
         "Wzhhfyt. "\
      "Gy ävso üc gvn Ciiäeüei Lßpqyxro ryyrütgyx, bpouhv jit kmr Eüuäwmigoia vyx wha Svfxiqbdßw ueu Uicädygnvs " \
      "jlvnvßzöquep rbäopd.\n\n\n"
 
-text3 = "Vwpdt krt ku hrs Sjjgvnvlrxopüeh Bmkrvöo Auj jvsvlvä ftd Zhfptdgu cpbtxfcjä, mä xpbvkvm xvr Izähxvfepztvugy " \
+text3 = "13. Terdköw \n" \
+        "Vwpdt krt ku hrs Sjjgvnvlrxopüeh Bmkrvöo Auj jvsvlvä ftd Zhfptdgu cpbtxfcjä, mä xpbvkvm xvr Izähxvfepztvugy " \
         "wlv" \
      " Rgki fbü, ldq uet Ipduüeiha Ttpeqf bdw gvm Gprjvrüzha Aopr. Qjp Kcwvrjhpcvyä ydad ößmbdsyc Volfuiao zxxu" \
      " Örklkrsy iidgt: fyiv Npdhfyep, lmäfx xrvgetlr Htzaö xad gprrs äücn xemsivepjxq Brmmvnv.\n\n" \
@@ -27,7 +30,8 @@ text3 = "Vwpdt krt ku hrs Sjjgvnvlrxopüeh Bmkrvöo Auj jvsvlvä ftd Zhfptdgu cp
      " ßfjßwäha Nkkey vyx Gdiowuiyt Mykrvlmlvdor lxuftgjoro gk ßaangu. Kyftwäüvivpk ffüxxq jit keb Mldwzvg Mhjsfpötxf" \
      " apnvrjqyc, gze Thobilit zvrflr ypvuah cathrösxuah Zmröpbf ßyiüvn.\n\n\n"
 
-text4 = "Tqfcjlmäfyx ädg Nqsü Üfwjgö uep Niyvrec bsetsiou, twä nbnpäi Tfüsvkge aiia ftdx dhfhdpyjr äxnüekkicf Zhß" \
+text4 = "14. Cieqjbi \n" \
+        "Tqfcjlmäfyx ädg Nqsü Üfwjgö uep Niyvrec bsetsiou, twä nbnpäi Tfüsvkge aiia ftdx dhfhdpyjr äxnüekkicf Zhß" \
         " Neigniajy ujifcjueüqpd. Hlv vgyfabnöih uep Äet bbz whß Dthgufyörjvl opx Sbmü Kreseox. Qjpixu jutki" \
         " ögqycvzcjäpvds ldq ueo Uicädygn zn gprrs Myyuviwukbbvjöra ggyicupj, lhücjl hvf Lvxqurqä Mzqzhih metzxksay. " \
         "Öyvnc ßmae myö Ordä Üebdsdtuftks ivogüxkvn wuh qbqsg vbrilr, qbßi jqfetl Krtnöpigsdlßvfskcjvn ppguu ouh Ryr" \
@@ -37,7 +41,8 @@ text4 = "Tqfcjlmäfyx ädg Nqsü Üfwjgö uep Niyvrec bsetsiou, twä nbnpäi Tf�
         "Gze Iljnorycha dgz Pnormxj Öahmirilkh krbgu zrsßkvkg zw lrclzcbha, wky lncpd wlv Dqzmb by Ödkükqwj" \
         " rssräw hnf iifbnöxq fig uyä taqcgzg.\n\n\n"
 
-text5 = "Xv öaolr Tfüsvkge ku hrs Sjtgg awm, mä epdxq uig Ipduüeih Grkhhr bwi Uhxrkmj sjpb. Whßncjl bftyc zzr" \
+text5 = "15. Cieqjbi \n" \
+        "Xv öaolr Tfüsvkge ku hrs Sjtgg awm, mä epdxq uig Ipduüeih Grkhhr bwi Uhxrkmj sjpb. Whßncjl bftyc zzr" \
         " Urpnwpdäßadnlv nvß Wähüica yäe oüx Dsepkvöu Tceretg hrtfrhöiwep. Pgu ilvx grfwlv bpüäxq üauziä, elih Ordä" \
         " Üebdsdtuftks hvfßy ox ueolrcjphxq ietzypia. Cöfy bgöravsüzw, uauz Fyvahdwv Ttpeqf ryydülgu mbu, twä " \
         "yvruöguf oyc Xesryyäh oyg Jvrajlcf gk ögvnvpjvätygha, adlv nvnö wdwüt cy bpüäxq, uauz ävs muag uig Zxnea" \
@@ -46,7 +51,8 @@ text5 = "Xv öaolr Tfüsvkge ku hrs Sjtgg awm, mä epdxq uig Ipduüeih Grkhhr bw
         "Meoj sui xas fpi Äbxyc vviplv Afajxu aaeo ärjayghe Fqsxrs cygurtgu: ßfft " \
         "Cxqfcjlr, Xjwü jqu Zcuxupß, yöqv Otrmä olcxqf Sylicz.\n\n\n"
 
-text6 = "Kmr Hphrfytg ßiaepd llergy - wvf vebpvn xvr Qbpxtohs, flq ripctozggu Eacpüijvbgy zöo Quul Iotzguu. Se" \
+text6 = "16. Lvtgzuu \n" \
+        "Kmr Hphrfytg ßiaepd llergy - wvf vebpvn xvr Qbpxtohs, flq ripctozggu Eacpüijvbgy zöo Quul Iotzguu. Se" \
         " hhz Bcyßvmwuöv Xekzx Noqkxkvr flv Ombjgrgep Ävvboy jqu dcz Svfw ixl vs, gpr Oßyxclf zypwpipd Cluan örq" \
         " Slldxaen cy efüööquetu, yz Slldxaen cy bdsmpfyep. Meoj myihhetä, hntß Xthuanöw äjnöi Wvin kib Opjozvrmlw" \
         " vta - uuhe ieo lncp yöqv Fkuxr wzhuheekäic, ety öka upk Jncti Ghgtgy ßdn Sujsgzklp qfü Öqoüepymcuph bdthgu" \
@@ -55,11 +61,4 @@ text6 = "Kmr Hphrfytg ßiaepd llergy - wvf vebpvn xvr Qbpxtohs, flq ripctozggu E
         " zblnlr ompüuha upk wvds uc gvm mvqzfyxxq Thcvw rsrriüvn. Uv wriü üvk zhtl qnhtivkvn Hdlvhvyöwvn" \
         " ylvctnöpwme, uv wriü lxurcjäi vds xöhfe Myinubhxq rueo.\n\n\n"
 
-
-text1 = "5. Dsafpyb \n" + text1
-text2 = "12. Terdköw \n" + text2
-text3 = "13. Terdköw \n" + text3
-text4 = "14. Cieqjbi \n" + text4
-text5 = "15. Cieqjbi \n" + text5
-text6 = "16. Lvtgzuu \n" + text6
 text_list = [text1, text2, text3, text4, text5, text6]
